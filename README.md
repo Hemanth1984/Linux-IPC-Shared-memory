@@ -52,7 +52,8 @@ int main()
 
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/d4bc6ce8-7de7-41ca-8465-c874e52e129d)
+![Screenshot 2025-05-18 174218](https://github.com/user-attachments/assets/86746350-e79e-4b30-a9a6-3e59b402825e)
+
 
 # RESULT:
 The program is executed successfully.
